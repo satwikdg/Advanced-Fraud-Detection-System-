@@ -1,4 +1,4 @@
-# 📊 Fraud Detection Systems
+# 📊  Advanced Fraud Detection Systems
 
 ---
 
@@ -135,6 +135,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <a name="contact"></a>
 ## 📧 Contact
 
-For any questions or suggestions, please contact us at [utsavsinghal26@gmail.com](mailto:utsavsinghal26@gmail.com).
+For any questions or suggestions, please contact us at [satwikdg6@gmail.com](satwikdg6@gmail.com).
 
 ---
